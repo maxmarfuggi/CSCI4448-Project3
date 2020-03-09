@@ -1,0 +1,2210 @@
+Stock loading successful...
+
+Customer loading successful...
+
+Rental system check is successful...
+
+
+
+
+
+--------------------------  Day 1 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 18
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: SUV001
+Rental Car Plate: SUV002
+Rental Car Plate: SUV003
+
+Renter Name: Blake | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: LUX001
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: LUX005
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: STD001
+Rental Car Plate: STD002
+Rental Car Plate: STD003
+
+Renter Name: Craig | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Brad | Renter Type: Business
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+Rental Car Plate: VAN003
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 7
+
+Car Type | License Plate
+
+VAN      -     VAN004
+VAN      -     VAN005
+ECO      -     ECO001
+ECO      -     ECO002
+ECO      -     ECO003
+ECO      -     ECO004
+ECO      -     ECO005
+Total Daily Income: $14415.0
+
+
+--------------------------  Day 2 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 2
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: LUX005
+Length of Rental: 0 days
+Options Chosen: 3 Car Seats, 1 GPS, 0 Satellite Radio
+Total Fee: $305.0
+
+Renter Name: Craig | Renter Type: Casual
+Rental Car Plate: STD004
+Length of Rental: 0 days
+Options Chosen: 1 Car Seats, 0 GPS, 0 Satellite Radio
+Total Fee: $85.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: SUV001
+Rental Car Plate: SUV002
+Rental Car Plate: SUV003
+
+Renter Name: Blake | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: LUX001
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: STD001
+Rental Car Plate: STD002
+Rental Car Plate: STD003
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Brad | Renter Type: Business
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+Rental Car Plate: VAN003
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: VAN005
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: ECO001
+Rental Car Plate: ECO002
+Rental Car Plate: ECO003
+
+Renter Name: Craig | Renter Type: Casual
+Rental Car Plate: LUX005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $2465.0
+
+
+--------------------------  Day 3 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 3
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: SUV001
+Length of Rental: 0 days
+Options Chosen: 3 Car Seats, 0 GPS, 0 Satellite Radio
+Total Fee: $990.0
+Rental Car Plate: SUV002
+Length of Rental: 0 days
+Options Chosen: 3 Car Seats, 0 GPS, 0 Satellite Radio
+Total Fee: $990.0
+Rental Car Plate: SUV003
+Length of Rental: 0 days
+Options Chosen: 3 Car Seats, 0 GPS, 0 Satellite Radio
+Total Fee: $990.0
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: STD001
+Length of Rental: 0 days
+Options Chosen: 4 Car Seats, 1 GPS, 0 Satellite Radio
+Total Fee: $645.0
+Rental Car Plate: STD002
+Length of Rental: 0 days
+Options Chosen: 4 Car Seats, 1 GPS, 0 Satellite Radio
+Total Fee: $645.0
+Rental Car Plate: STD003
+Length of Rental: 0 days
+Options Chosen: 4 Car Seats, 1 GPS, 0 Satellite Radio
+Total Fee: $645.0
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: VAN004
+Length of Rental: 0 days
+Options Chosen: 0 Car Seats, 1 GPS, 0 Satellite Radio
+Total Fee: $150.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Blake | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: LUX001
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Brad | Renter Type: Business
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: VAN005
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: ECO001
+Rental Car Plate: ECO002
+Rental Car Plate: ECO003
+
+Renter Name: Craig | Renter Type: Casual
+Rental Car Plate: LUX005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Brad | Renter Type: Business
+Rental Car Plate: SUV001
+Rental Car Plate: SUV002
+Rental Car Plate: SUV003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: STD001
+
+Renter Name: Craig | Renter Type: Casual
+Rental Car Plate: STD002
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $3995.0
+
+
+--------------------------  Day 4 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 4
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: VAN005
+Length of Rental: 0 days
+Options Chosen: 2 Car Seats, 1 GPS, 1 Satellite Radio
+Total Fee: $335.0
+
+Renter Name: Craig | Renter Type: Casual
+Rental Car Plate: LUX005
+Length of Rental: 0 days
+Options Chosen: 1 Car Seats, 0 GPS, 0 Satellite Radio
+Total Fee: $510.0
+
+Renter Name: Craig | Renter Type: Casual
+Rental Car Plate: STD002
+Length of Rental: 0 days
+Options Chosen: 3 Car Seats, 1 GPS, 1 Satellite Radio
+Total Fee: $170.0
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+Length of Rental: 0 days
+Options Chosen: 0 Car Seats, 1 GPS, 0 Satellite Radio
+Total Fee: $150.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 24
+
+Renter Name: Blake | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: LUX001
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Brad | Renter Type: Business
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+Rental Car Plate: VAN003
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: ECO001
+Rental Car Plate: ECO002
+Rental Car Plate: ECO003
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Brad | Renter Type: Business
+Rental Car Plate: SUV001
+Rental Car Plate: SUV002
+Rental Car Plate: SUV003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: STD001
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 1
+
+Car Type | License Plate
+
+VAN      -     VAN004
+Total Daily Income: $0.0
+
+
+--------------------------  Day 5 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 1
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: STD001
+Length of Rental: 0 days
+Options Chosen: 3 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $220.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 24
+
+Renter Name: Blake | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: LUX001
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Brad | Renter Type: Business
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+Rental Car Plate: VAN003
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: ECO001
+Rental Car Plate: ECO002
+Rental Car Plate: ECO003
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Brad | Renter Type: Business
+Rental Car Plate: SUV001
+Rental Car Plate: SUV002
+Rental Car Plate: SUV003
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Craig | Renter Type: Casual
+Rental Car Plate: VAN004
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 1
+
+Car Type | License Plate
+
+STD      -     STD001
+Total Daily Income: $145.0
+
+
+--------------------------  Day 6 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 1
+
+Renter Name: Craig | Renter Type: Casual
+Rental Car Plate: VAN004
+Length of Rental: 0 days
+Options Chosen: 2 Car Seats, 0 GPS, 0 Satellite Radio
+Total Fee: $145.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Blake | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: LUX001
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Brad | Renter Type: Business
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+Rental Car Plate: VAN003
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: ECO001
+Rental Car Plate: ECO002
+Rental Car Plate: ECO003
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Brad | Renter Type: Business
+Rental Car Plate: SUV001
+Rental Car Plate: SUV002
+Rental Car Plate: SUV003
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: VAN004
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $175.0
+
+
+--------------------------  Day 7 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 1
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: VAN004
+Length of Rental: 0 days
+Options Chosen: 1 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $175.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Blake | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: LUX001
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Brad | Renter Type: Business
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+Rental Car Plate: VAN003
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: ECO001
+Rental Car Plate: ECO002
+Rental Car Plate: ECO003
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Brad | Renter Type: Business
+Rental Car Plate: SUV001
+Rental Car Plate: SUV002
+Rental Car Plate: SUV003
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $150.0
+
+
+--------------------------  Day 8 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 3
+
+Renter Name: Blake | Renter Type: Business
+Rental Car Plate: SUV004
+Length of Rental: 0 days
+Options Chosen: 4 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $4090.0
+Rental Car Plate: SUV005
+Length of Rental: 0 days
+Options Chosen: 4 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $4090.0
+Rental Car Plate: LUX001
+Length of Rental: 0 days
+Options Chosen: 4 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $4090.0
+
+Renter Name: Brad | Renter Type: Business
+Rental Car Plate: VAN001
+Length of Rental: 0 days
+Options Chosen: 0 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $2745.0
+Rental Car Plate: VAN002
+Length of Rental: 0 days
+Options Chosen: 0 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $2745.0
+Rental Car Plate: VAN003
+Length of Rental: 0 days
+Options Chosen: 0 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $2745.0
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+Length of Rental: 0 days
+Options Chosen: 0 Car Seats, 1 GPS, 0 Satellite Radio
+Total Fee: $150.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: ECO001
+Rental Car Plate: ECO002
+Rental Car Plate: ECO003
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Brad | Renter Type: Business
+Rental Car Plate: SUV001
+Rental Car Plate: SUV002
+Rental Car Plate: SUV003
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: VAN003
+
+Renter Name: Craig | Renter Type: Casual
+Rental Car Plate: VAN004
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $1945.0
+
+
+--------------------------  Day 9 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 3
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: ECO001
+Length of Rental: 0 days
+Options Chosen: 1 Car Seats, 1 GPS, 1 Satellite Radio
+Total Fee: $1275.0
+Rental Car Plate: ECO002
+Length of Rental: 0 days
+Options Chosen: 1 Car Seats, 1 GPS, 1 Satellite Radio
+Total Fee: $1275.0
+Rental Car Plate: ECO003
+Length of Rental: 0 days
+Options Chosen: 1 Car Seats, 1 GPS, 1 Satellite Radio
+Total Fee: $1275.0
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: LUX001
+Length of Rental: 0 days
+Options Chosen: 3 Car Seats, 1 GPS, 1 Satellite Radio
+Total Fee: $345.0
+
+Renter Name: Craig | Renter Type: Casual
+Rental Car Plate: VAN004
+Length of Rental: 0 days
+Options Chosen: 2 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $185.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Brad | Renter Type: Business
+Rental Car Plate: SUV001
+Rental Car Plate: SUV002
+Rental Car Plate: SUV003
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: VAN003
+
+Renter Name: Randy | Renter Type: Regular
+Rental Car Plate: ECO001
+Rental Car Plate: ECO002
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: ECO003
+Rental Car Plate: LUX001
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $800.0
+
+
+--------------------------  Day 10 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 4
+
+Renter Name: Brad | Renter Type: Business
+Rental Car Plate: SUV001
+Length of Rental: 0 days
+Options Chosen: 2 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $3330.0
+Rental Car Plate: SUV002
+Length of Rental: 0 days
+Options Chosen: 2 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $3330.0
+Rental Car Plate: SUV003
+Length of Rental: 0 days
+Options Chosen: 2 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $3330.0
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: SUV004
+Length of Rental: 0 days
+Options Chosen: 4 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $760.0
+Rental Car Plate: SUV005
+Length of Rental: 0 days
+Options Chosen: 4 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $760.0
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: VAN003
+Length of Rental: 0 days
+Options Chosen: 0 Car Seats, 1 GPS, 0 Satellite Radio
+Total Fee: $275.0
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: ECO003
+Length of Rental: 0 days
+Options Chosen: 2 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $420.0
+Rental Car Plate: LUX001
+Length of Rental: 0 days
+Options Chosen: 2 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $420.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Randy | Renter Type: Regular
+Rental Car Plate: ECO001
+Rental Car Plate: ECO002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: SUV001
+Rental Car Plate: SUV002
+Rental Car Plate: SUV003
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Craig | Renter Type: Casual
+Rental Car Plate: LUX001
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $7020.0
+
+
+--------------------------  Day 11 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 1
+
+Renter Name: Randy | Renter Type: Regular
+Rental Car Plate: ECO001
+Length of Rental: 0 days
+Options Chosen: 1 Car Seats, 0 GPS, 0 Satellite Radio
+Total Fee: $220.0
+Rental Car Plate: ECO002
+Length of Rental: 0 days
+Options Chosen: 1 Car Seats, 0 GPS, 0 Satellite Radio
+Total Fee: $220.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: SUV001
+Rental Car Plate: SUV002
+Rental Car Plate: SUV003
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Craig | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: ECO002
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $140.0
+
+
+--------------------------  Day 12 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 1
+
+Renter Name: Craig | Renter Type: Casual
+Rental Car Plate: LUX001
+Length of Rental: 0 days
+Options Chosen: 1 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $550.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: SUV001
+Rental Car Plate: SUV002
+Rental Car Plate: SUV003
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: ECO002
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $250.0
+
+
+--------------------------  Day 13 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 1
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: ECO002
+Length of Rental: 0 days
+Options Chosen: 4 Car Seats, 0 GPS, 0 Satellite Radio
+Total Fee: $140.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: SUV001
+Rental Car Plate: SUV002
+Rental Car Plate: SUV003
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Riley | Renter Type: Regular
+Rental Car Plate: ECO002
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $135.0
+
+
+--------------------------  Day 14 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: SUV001
+Rental Car Plate: SUV002
+Rental Car Plate: SUV003
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Riley | Renter Type: Regular
+Rental Car Plate: ECO002
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $0.0
+
+
+--------------------------  Day 15 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 1
+
+Renter Name: Riley | Renter Type: Regular
+Rental Car Plate: ECO002
+Length of Rental: 0 days
+Options Chosen: 1 Car Seats, 1 GPS, 0 Satellite Radio
+Total Fee: $135.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: SUV001
+Rental Car Plate: SUV002
+Rental Car Plate: SUV003
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: ECO002
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $150.0
+
+
+--------------------------  Day 16 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: SUV001
+Rental Car Plate: SUV002
+Rental Car Plate: SUV003
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: ECO002
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $0.0
+
+
+--------------------------  Day 17 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 2
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: SUV001
+Length of Rental: 0 days
+Options Chosen: 4 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $3390.0
+Rental Car Plate: SUV002
+Length of Rental: 0 days
+Options Chosen: 4 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $3390.0
+Rental Car Plate: SUV003
+Length of Rental: 0 days
+Options Chosen: 4 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $3390.0
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: ECO002
+Length of Rental: 0 days
+Options Chosen: 1 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $150.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: SUV003
+
+Renter Name: Craig | Renter Type: Casual
+Rental Car Plate: ECO002
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $470.0
+
+
+--------------------------  Day 18 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 1
+
+Renter Name: Craig | Renter Type: Casual
+Rental Car Plate: ECO002
+Length of Rental: 0 days
+Options Chosen: 0 Car Seats, 1 GPS, 1 Satellite Radio
+Total Fee: $115.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: SUV003
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: ECO002
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $85.0
+
+
+--------------------------  Day 19 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 1
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: SUV003
+Length of Rental: 0 days
+Options Chosen: 3 Car Seats, 1 GPS, 0 Satellite Radio
+Total Fee: $355.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: ECO002
+
+Renter Name: Craig | Renter Type: Casual
+Rental Car Plate: SUV003
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $160.0
+
+
+--------------------------  Day 20 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 1
+
+Renter Name: Craig | Renter Type: Casual
+Rental Car Plate: SUV003
+Length of Rental: 0 days
+Options Chosen: 1 Car Seats, 0 GPS, 0 Satellite Radio
+Total Fee: $160.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: ECO002
+
+Renter Name: Craig | Renter Type: Casual
+Rental Car Plate: SUV003
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $365.0
+
+
+--------------------------  Day 21 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: ECO002
+
+Renter Name: Craig | Renter Type: Casual
+Rental Car Plate: SUV003
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $0.0
+
+
+--------------------------  Day 22 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 1
+
+Renter Name: Craig | Renter Type: Casual
+Rental Car Plate: SUV003
+Length of Rental: 0 days
+Options Chosen: 0 Car Seats, 1 GPS, 1 Satellite Radio
+Total Fee: $365.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: ECO002
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: SUV003
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $360.0
+
+
+--------------------------  Day 23 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: ECO002
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: SUV003
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $0.0
+
+
+--------------------------  Day 24 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 1
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: SUV003
+Length of Rental: 0 days
+Options Chosen: 2 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $360.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: ECO002
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: SUV003
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $405.0
+
+
+--------------------------  Day 25 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: ECO002
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: SUV003
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $0.0
+
+
+--------------------------  Day 26 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 1
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: SUV003
+Length of Rental: 0 days
+Options Chosen: 4 Car Seats, 1 GPS, 1 Satellite Radio
+Total Fee: $405.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: ECO002
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: SUV003
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $190.0
+
+
+--------------------------  Day 27 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 1
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: SUV003
+Length of Rental: 0 days
+Options Chosen: 0 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $190.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: ECO002
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: SUV003
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $310.0
+
+
+--------------------------  Day 28 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: ECO002
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: SUV003
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $0.0
+
+
+--------------------------  Day 29 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 1
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: SUV003
+Length of Rental: 0 days
+Options Chosen: 1 Car Seats, 0 GPS, 0 Satellite Radio
+Total Fee: $310.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: ECO002
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: SUV003
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $370.0
+
+
+--------------------------  Day 30 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: ECO002
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: SUV003
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $0.0
+
+
+--------------------------  Day 31 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 1
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: SUV003
+Length of Rental: 0 days
+Options Chosen: 3 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $370.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: ECO002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: SUV003
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $215.0
+
+
+--------------------------  Day 32 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 1
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: SUV003
+Length of Rental: 0 days
+Options Chosen: 4 Car Seats, 1 GPS, 0 Satellite Radio
+Total Fee: $215.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: ECO002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: SUV003
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $205.0
+
+
+--------------------------  Day 33 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 1
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: SUV003
+Length of Rental: 0 days
+Options Chosen: 3 Car Seats, 1 GPS, 0 Satellite Radio
+Total Fee: $205.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: ECO002
+
+Renter Name: Randy | Renter Type: Regular
+Rental Car Plate: SUV003
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $190.0
+
+
+--------------------------  Day 34 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 1
+
+Renter Name: Randy | Renter Type: Regular
+Rental Car Plate: SUV003
+Length of Rental: 0 days
+Options Chosen: 0 Car Seats, 0 GPS, 1 Satellite Radio
+Total Fee: $190.0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: ECO002
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: SUV003
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $360.0
+
+
+--------------------------  Day 35 --------------------------
+
+--------------------------  Completed Rentals  --------------------------
+
+Total Completed Sales: 0
+--------------------------  Active Rentals  --------------------------
+
+Total Active Rentals: 25
+
+Renter Name: Bernard | Renter Type: Business
+Rental Car Plate: LUX002
+Rental Car Plate: LUX003
+Rental Car Plate: LUX004
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD005
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: STD004
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: STD003
+
+Renter Name: Ricky | Renter Type: Regular
+Rental Car Plate: VAN001
+Rental Car Plate: VAN002
+
+Renter Name: Corrie | Renter Type: Casual
+Rental Car Plate: VAN004
+
+Renter Name: Beatrix | Renter Type: Business
+Rental Car Plate: SUV004
+Rental Car Plate: SUV005
+Rental Car Plate: VAN003
+
+Renter Name: Carly | Renter Type: Casual
+Rental Car Plate: LUX001
+
+Renter Name: Ralph | Renter Type: Regular
+Rental Car Plate: ECO002
+
+Renter Name: Caroline | Renter Type: Casual
+Rental Car Plate: SUV003
+--------------------------  Store Inventory  --------------------------
+
+Total Cars in Inventory: 0
+
+Car Type | License Plate
+
+Total Daily Income: $0.0
+--------------------------  Total Sales Breakdown  --------------------------
+
+Total Sales During Period: 40
+Total Business Customer Rentals: 5
+Total Regular Customer Rentals: 9
+Total Casual Customer Rentals: 26
+Total Income: $35470.0
